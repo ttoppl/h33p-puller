@@ -1,7 +1,7 @@
 # h33p
 ip stresser
 
-# made by ttoppl
+# made by ttoppl or pull man
 
 ## uses python to stress people's ip with a crazy botnet
 
